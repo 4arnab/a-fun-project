@@ -1,0 +1,3 @@
+Product Title:hp computer
+Description:hp, cori5 fast and super functional computer
+Price:1200.45
